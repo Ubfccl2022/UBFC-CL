@@ -1,0 +1,116 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color:  white;
+    text-align: center;
+}
+.footer {
+    background-color: blueviolet;
+    text-align: left;
+    padding: 15px 7px;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+.conteudo p{
+    max-width: 800px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 40px;
+    opacity: 0.8;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.conteudo h3{
+    font-size: 50px;
+}
+.conteudo img{
+    max-width: 750px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.header{
+    background-color: blueviolet;
+    padding: 20px 0;
+    position: relative;
+    margin: auto;
+}
+#menu-h ul{
+    list-style: none;
+    padding: 0;
+    background-color: blueviolet;
+}
+#menu-h ul li{
+    display: inline;
+}
+#menu-h ul li a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    transition: background .3s;
+}
+#menu-h ul li a:hover{
+    background-color: black;
+}
+.conteudocampeoes{
+    font-size: 30px;
+    opacity: 0.8;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.conteudocampeoes h2{
+    opacity: 1.0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.conteudocampeoes h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.conteudocampeoes .milanimage, .bayernimage, .cityimage, .barcelonaimage, .arsenalimage, .internacionalimage,  .dortmundimage, .unitedimage {
+    width: 700px;
+    height: 400px;
+}
+.conteudocampeoes div p{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.conteudocampeoes .textocampeoes {
+    text-align: justify;
+    max-width: 700px;
+}
+.conteudocampeoes div .internacional{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: justify;
+    max-width: 700px;
+}
+.conteudojogadores{
+    font-size: 30px;
+    opacity: 0.8;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.conteudojogadores h2{
+    opacity: 1.0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.conteudojogadores h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.conteudojogadores div p{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.conteudojogadores ul li{
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

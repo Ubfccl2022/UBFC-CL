@@ -1,0 +1,489 @@
+@media screen and (max-width: 320px) {
+    .header {
+        padding: 5px;
+    }
+    .header h1 {
+        font-size: 1.2em;
+        margin-block-start: 0.6em;
+        margin-block-end: 0.6em;
+    }
+    div #menu-h {
+        font-size: 0.6em;
+    }
+    .conteudojogadores{
+        margin-right: 25px;
+        margin-left: 25px;
+    }
+    .conteudojogadores h2{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 14px;
+        margin: 15px 15px;
+    }
+      footer {
+        font-size: 9px;
+        text-align: auto;
+        padding: 2px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 420px) {
+    .header {
+        padding: 10px;
+    }
+    .header h1  {
+        font-size: 1.3em;
+        margin-block-start: 0.7em;
+        margin-block-end: 0.7em;
+    }
+    div #menu-h {
+        font-size: 0.6em;
+    }
+    .conteudojogadores{
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    .conteudojogadores h2{
+        font-size: 25px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 15px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 16px;
+        margin: 15px 20px;
+    }
+      footer {
+        font-size: 10px;
+        text-align: auto;
+        padding: 5px;
+    }
+}
+@media screen and (min-width: 420px) and (max-width: 500px) {
+    .header {
+        padding: 15px;
+    }
+    .header header .titulogeral {
+        font-size: 1.2em;
+        margin-block-start: 0.7em;
+        margin-block-end: 0.7em;
+    }
+    div #menu-h {
+        font-size: 0.8em;
+    }
+    .conteudojogadores{
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    .conteudojogadores h2{
+        font-size: 27px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 22px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 17px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 18px;
+        margin: 15px 40px;
+    }
+    footer {
+        font-size: 14px;
+        text-align: auto;
+        padding: 5px;
+    }
+}
+@media screen and (min-width: 500px) and (max-width: 680px) {
+    .header {
+        padding: 15px;
+    }
+    .header header .titulogeral {
+        font-size: 1.3em;
+        margin-block-start: 0.9em;
+        margin-block-end: 0.9em;
+    }
+    div #menu-h {
+        font-size: 0.9em;
+    }
+    .conteudojogadores{
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    .conteudojogadores h2{
+        font-size: 29px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 24px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 19px;
+        margin: 15px 30px;
+    }
+      footer {
+        font-size: 14px;
+        text-align: auto;
+        padding: 5px;
+    }
+}
+@media screen and (min-width: 680px) and (max-width: 750px) {
+    .header {
+        padding: 18px;
+    }
+    .header header .titulogeral {
+        font-size: 1.4em;
+        margin-block-start: 1.0em;
+        margin-block-end: 1.0em;
+    }
+    div #menu-h {
+        font-size: 0.9em;
+    }
+    .conteudojogadores{
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    .conteudojogadores h2{
+        font-size: 31px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 26px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 21px;
+        margin: 15px 30px;
+    }
+      footer {
+        font-size: 15px;
+        text-align: auto;
+        padding: 5px;
+    }
+}
+@media screen and (min-width: 750px) and (max-width: 850px) {
+    .header {
+        padding: 20px;
+    }
+    .header header .titulogeral {
+        font-size: 1.6em;
+        margin-block-start: 1.1em;
+        margin-block-end: 1.1em;
+    }
+    div #menu-h {
+        font-size: 1.0em;
+    }
+    .conteudojogadores{
+        margin-right: 60px;
+        margin-left: 60px;
+    }
+    .conteudojogadores h2{
+        font-size: 33px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 28px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 22px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 23px;
+        margin: 15px 50px;
+    }
+      footer {
+        font-size: 15px;
+        text-align: auto;
+        padding: 5px;
+    }  
+}
+@media screen and (min-width: 850px) and (max-width: 950px) {
+    .header {
+        padding: 25px;
+    }
+    .header header .titulogeral {
+        font-size: 1.8em;
+        margin-block-start: 1.2em;
+        margin-block-end: 1.2em;
+    }
+    .conteudojogadores{
+        margin-right: 70px;
+        margin-left: 70px;
+    }
+    .conteudojogadores h2{
+        font-size: 35px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 24px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 25px;
+        margin: 15px 60px;
+    }
+      footer {
+        font-size: 15px;
+        text-align: auto;
+        padding: 5px;
+    }  
+}
+@media screen and (min-width: 950px) and (max-width: 1050px) {
+    .header {
+        padding: 30px;
+    }
+    .header header .titulogeral {
+        font-size: 1.8em;
+        margin-block-start: 1.2em;
+        margin-block-end: 1.2em;
+    }
+    div #menu-h {
+        font-size: 1.1em;
+    }
+    .conteudojogadores{
+        margin-right: 80px;
+        margin-left: 80px;
+    }
+    .conteudojogadores h2{
+        font-size: 36px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 31px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 25px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 26px;
+        margin: 15px 70px;
+    }
+      footer {
+        font-size: 15px;
+        text-align: auto;
+        padding: 5px;
+    }  
+}
+@media screen and (min-width: 1050px) and (max-width: 1150px) {
+    .header {
+        padding: 30px;
+    }
+    .header header .titulogeral {
+        font-size: 1.8em;
+        margin-block-start: 1.3em;
+        margin-block-end: 1.3em;
+    }
+    div #menu-h {
+        font-size: 1.2em;
+    }
+    .conteudojogadores{
+        margin-right: 90px;
+        margin-left: 90px;
+    }
+    .conteudojogadores h2{
+        font-size: 37px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 32px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 26px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 27px;
+        margin: 15px 80px;
+    }
+      footer {
+        font-size: 15px;
+        text-align: auto;
+        padding: 5px;
+    }  
+}
+@media screen and (min-width: 1150px) and (max-width: 1250px) {
+    .header {
+        padding: 30px;
+    }
+    .header header .titulogeral {
+        font-size: 1.9em;
+        margin-block-start: 1.4em;
+        margin-block-end: 1.4em;
+    }
+    div #menu-h {
+        font-size: 1.2em;
+    }
+    .conteudojogadores{
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    .conteudojogadores h2{
+        font-size: 38px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 33px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 27px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 28px;
+        margin: 15px 90px;
+    }
+      footer {
+        font-size: 15px;
+        text-align: auto;
+        padding: 5px;
+    }  
+}
+@media screen and (min-width: 1250px) and (max-width: 1350px) {
+    .header {
+        padding: 30px;
+    }
+    .header header .titulogeral {
+        font-size: 2.0em;
+        margin-block-start: 1.5em;
+        margin-block-end: 1.5em;
+    }
+    div #menu-h {
+        font-size: 1.2em;
+    }
+    .conteudojogadores{
+        margin-right: 110px;
+        margin-left: 110px;
+    }
+    .conteudojogadores h2{
+        font-size: 39px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 34px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 28px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 29px;
+        margin: 15px 90px;
+    }
+      footer {
+        font-size: 16px;
+        text-align: auto;
+        padding: 5px;
+    }  
+}
+@media screen and (min-width: 1350px) and (max-width: 1450px) {
+    .header {
+        padding: 30px;
+    }
+    .header header .titulogeral {
+        font-size: 2.0em;
+        margin-block-start: 1.5em;
+        margin-block-end: 1.5em;
+    }
+    div #menu-h {
+        font-size: 1.2em;
+    }
+    .conteudojogadores{
+        margin-right: 110px;
+        margin-left: 110px;
+    }
+    .conteudojogadores h2{
+        font-size: 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores h3{
+        font-size: 35px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .conteudojogadores div p{
+        font-size: 29px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    .conteudojogadores ul li{
+        font-size: 30px;
+        margin: 15px 100px;
+    }
+    footer {
+        font-size: 18px;
+        text-align: auto;
+        padding: 5px;
+    }  
+}
